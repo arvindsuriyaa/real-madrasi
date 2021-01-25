@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/real-madrasi/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/real-madrasi/static/js/main.30854368.chunk.js",
+    "main.js.map": "/real-madrasi/static/js/main.30854368.chunk.js.map",
+    "runtime-main.js": "/real-madrasi/static/js/runtime-main.faa6ee47.js",
+    "runtime-main.js.map": "/real-madrasi/static/js/runtime-main.faa6ee47.js.map",
+    "static/js/2.e1b750d1.chunk.js": "/real-madrasi/static/js/2.e1b750d1.chunk.js",
+    "static/js/2.e1b750d1.chunk.js.map": "/real-madrasi/static/js/2.e1b750d1.chunk.js.map",
+    "static/js/3.c6c6aabb.chunk.js": "/real-madrasi/static/js/3.c6c6aabb.chunk.js",
+    "static/js/3.c6c6aabb.chunk.js.map": "/real-madrasi/static/js/3.c6c6aabb.chunk.js.map",
+    "index.html": "/real-madrasi/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/real-madrasi/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e1b750d1.chunk.js.LICENSE.txt": "/real-madrasi/static/js/2.e1b750d1.chunk.js.LICENSE.txt",
+    "static/media/Arvind.e40080bf.jpg": "/real-madrasi/static/media/Arvind.e40080bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faa6ee47.js",
+    "static/js/2.e1b750d1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.30854368.chunk.js"
+  ]
+}
