@@ -28,10 +28,10 @@ function App() {
       <img src={Profile} alt="arvind" height={300} />
       <div style={{ marginTop: 10 }}>
         <b>
-          Name : ArvindSuriya
+          Name : Arvind
           <div style={{ marginTop: 20 }}>
             Fire Him? He will be punished in accordance to Garuda puranam..!
-            <div style={{ marginTop: 20 }}>
+            <div style={{ marginTop: 20, marginBottom: 30 }}>
               <button onClick={() => setOpen(true)}>Yes</button>&nbsp;&nbsp;
               <button onClick={() => setOpen(true)}>No</button>
             </div>
