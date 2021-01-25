@@ -38,7 +38,7 @@ function App() {
           </div>
         </b>
       </div>
-      <Snackbar open={open} autoHideDuration={2000} onClose={handleClose}>
+      <Snackbar open={open} autoHideDuration={3000} onClose={handleClose}>
         <Alert onClose={handleClose} severity="error">
           Amaa.. Nee romba Olungu. Poi Net connection check pannu po.
         </Alert>
