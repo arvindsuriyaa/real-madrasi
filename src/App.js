@@ -20,7 +20,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="App" style={{width:'80%', margin:'auto'}}>
       <h2>Oops... The page ran into some issue</h2>
       <p>As a CEO, I feel the developer has worked against their integrity</p>
       <p>Do you think I should Fire him?</p>
