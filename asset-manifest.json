@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/real-madrasi/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/real-madrasi/static/js/main.6fbc148a.chunk.js",
-    "main.js.map": "/real-madrasi/static/js/main.6fbc148a.chunk.js.map",
+    "main.js": "/real-madrasi/static/js/main.2dbd8a1c.chunk.js",
+    "main.js.map": "/real-madrasi/static/js/main.2dbd8a1c.chunk.js.map",
     "runtime-main.js": "/real-madrasi/static/js/runtime-main.faa6ee47.js",
     "runtime-main.js.map": "/real-madrasi/static/js/runtime-main.faa6ee47.js.map",
     "static/js/2.e1b750d1.chunk.js": "/real-madrasi/static/js/2.e1b750d1.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.faa6ee47.js",
     "static/js/2.e1b750d1.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6fbc148a.chunk.js"
+    "static/js/main.2dbd8a1c.chunk.js"
   ]
 }
